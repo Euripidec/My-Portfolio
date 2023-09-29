@@ -1,0 +1,446 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"background",
+				"background-image"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"pa",
+				"padding-bottom"
+			],
+			[
+				"top",
+				"padding-top"
+			],
+			[
+				"co",
+				"constructor"
+			],
+			[
+				"fil",
+				"filterArray"
+			],
+			[
+				"random",
+				"randomColor"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"grid-tem",
+				"grid-template-columns"
+			],
+			[
+				"align-",
+				"align-items"
+			],
+			[
+				"grid",
+				"grid-column"
+			],
+			[
+				"jus",
+				"justify-items"
+			],
+			[
+				"text",
+				"text-center"
+			],
+			[
+				"hea",
+				"header"
+			],
+			[
+				"border-co",
+				"border-color"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"hi",
+				"height"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"fo",
+				"footer"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"i",
+				"italic"
+			],
+			[
+				"font-st",
+				"font-style"
+			],
+			[
+				"r",
+				"right"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"rg",
+				"rgba()"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"background-",
+				"background-color"
+			],
+			[
+				"opt",
+				"option"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"UI: Customize Color Scheme"
+			],
+			[
+				"custo",
+				"UI: Customize Color Scheme"
+			],
+			[
+				"package control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"color",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"colors",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install pack",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 130.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/eurip/OneDrive/Desktop/stuff/JavaScript Stuff/simplefolio/package.json",
+		"/C/Users/eurip/OneDrive/Desktop/Final Project/final.js",
+		"/C/Users/eurip/OneDrive/Desktop/Final Project/style.css",
+		"/C/Users/eurip/OneDrive/Desktop/Final Project/index.html",
+		"/C/Users/eurip/OneDrive/Desktop/stuff/JavaScript Stuff/background-generator/package-lock.json",
+		"/C/Users/eurip/OneDrive/Desktop/Final Project/example.js",
+		"/C/Users/eurip/OneDrive/Desktop/stuff/JavaScript Stuff/background-generator/backgroundgeneratorstyle.css",
+		"/C/Users/eurip/OneDrive/Desktop/stuff/JavaScript Stuff/background-generator/backgroundgeneratorscript.js",
+		"/C/Users/eurip/OneDrive/Desktop/stuff/JavaScript Stuff/background-generator/backgroundgenerator.html",
+		"/C/Users/eurip/OneDrive/Desktop/final.css",
+		"/C/Users/eurip/OneDrive/Desktop/final.html",
+		"/C/Users/eurip/OneDrive/Desktop/example.js",
+		"/C/Users/eurip/OneDrive/Desktop/stuff/JavaScript Stuff/JavaScript-Exercises/Rewrite switch Into If Else/rewrite switch into if else.js",
+		"/C/Users/eurip/OneDrive/Desktop/stuff/JavaScript Stuff/JavaScript-Exercises/Output Prime Numbers/output prime numbers.js",
+		"/C/Users/eurip/OneDrive/Desktop/stuff/JavaScript Stuff/JavaScript-Exercises/Repeat Until the Input is Correct/repeat until the input is correct.js",
+		"/C/Users/eurip/OneDrive/Desktop/stuff/JavaScript Stuff/background-generator/package.json",
+		"/C/Users/eurip/OneDrive/Desktop/stuff/JavaScript Stuff/JavaScript-Exercises/New Accumalator/accumalator.js",
+		"/C/Users/eurip/OneDrive/Desktop/stuff/JavaScript Stuff/JavaScript-Exercises/New Calculator/newcalculator.js",
+		"/C/Users/eurip/OneDrive/Desktop/stuff/JavaScript Stuff/JavaScript-Exercises/Create a Calculator/create a calculator.js",
+		"/C/Users/eurip/OneDrive/Desktop/stuff/JavaScript Stuff/JavaScript-Exercises/Make Numeric Property Values by 2/make numeric property values by 2.js",
+		"/C/Users/eurip/OneDrive/Desktop/stuff/JavaScript Stuff/JavaScript-Exercises/Sum Object properties/sum object properties.js",
+		"/C/Users/eurip/OneDrive/Desktop/stuff/JavaScript Stuff/JavaScript-Exercises/Is Empty Object/is empty object.js",
+		"/C/Users/eurip/OneDrive/Desktop/stuff/JavaScript Stuff/JavaScript-Exercises/Hello, Object/hello,object.js",
+		"/C/Users/eurip/OneDrive/Desktop/stuff/JavaScript Stuff/JavaScript-Exercises/Chaining/chaining,js",
+		"/C/Users/eurip/OneDrive/Desktop/stuff/JavaScript Stuff/JavaScript-Exercises/Rewrite with Arrow Functions/rewrite with arrow functions.js",
+		"/C/Users/eurip/OneDrive/Desktop/stuff/JavaScript Stuff/JavaScript-Exercises/Function min (a,b)/function min.js",
+		"/C/Users/eurip/OneDrive/Desktop/stuff/JavaScript Stuff/JavaScript-Exercises/Function pow (x,n)/function pow.js",
+		"/C/Users/eurip/OneDrive/Desktop/stuff/JavaScript Stuff/JavaScript-Exercises/Rewrite the function using or and question mark/rewrite the function useing or and question mark.js",
+		"/C/Users/eurip/OneDrive/Desktop/stuff/JavaScript Stuff/JavaScript-Exercises/Rewrite if into Switch/rewrite if into switch.js",
+		"/C/Users/eurip/OneDrive/Desktop/stuff/JavaScript Stuff/JavaScript-Exercises/Rewrite if into  'question mark'/Rewrite if into question mark.js",
+		"/C/Users/eurip/OneDrive/Desktop/stuff/JavaScript Stuff/JavaScript-Exercises/Rewrite for with While/rewrite for with while",
+		"/C/Users/eurip/OneDrive/Desktop/stuff/JavaScript Stuff/JavaScript-Exercises/Output Even Numbers Loop/Output even numbers loop.js",
+		"/C/Users/eurip/OneDrive/Desktop/stuff/JavaScript Stuff/JavaScript-Exercises/Check the Range Outside/check the range outside.js",
+		"/C/Users/eurip/OneDrive/Desktop/stuff/JavaScript Stuff/JavaScript-Exercises/Check the Range Between/check the range between.js",
+		"/C/Users/eurip/OneDrive/Desktop/stuff/JavaScript Stuff/JavaScript-Exercises/Hello World/Hello-World.html",
+		"/C/Users/eurip/OneDrive/Desktop/stuff/JavaScript Stuff/JavaScript-Exercises/Working with Variables/Working with variables.js",
+		"/C/Users/eurip/OneDrive/Desktop/stuff/JavaScript Stuff/JavaScript-Exercises/A Simple Page/A simple page.js",
+		"/C/Users/eurip/OneDrive/Desktop/stuff/JavaScript Stuff/JavaScript-Exercises/The Name of JavaScript/The name of javascript.js",
+		"/C/Users/eurip/OneDrive/Desktop/stuff/JavaScript Stuff/JavaScript-Exercises/Show the Sign/show the sign.js",
+		"/C/Users/eurip/OneDrive/Desktop/stuff/JavaScript Stuff/JavaScript-Exercises/Rewrite if else into question mark/if else into question mark.js",
+		"/C/Users/eurip/OneDrive/Desktop/stuff/JavaScript Stuff/JavaScript-Exercises/Check the Login/check the login.js",
+		"/C/Users/eurip/OneDrive/Desktop/stuff/JavaScript Stuff/JavaScript-Exercises/I’m JavaScript!/script.js",
+		"/C/Users/eurip/OneDrive/Desktop/stuff/JavaScript Stuff/JavaScript-Exercises/I’m JavaScript!/I’m JavaScript!.html",
+		"/C/Users/eurip/OneDrive/Desktop/CSR.py",
+		"/C/Users/eurip/OneDrive/Desktop/stuff/JavaScript Stuff/exercise1.js",
+		"/C/Users/eurip/OneDrive/Desktop/test/webapp/index.html",
+		"/C/Users/eurip/OneDrive/Desktop/stuff/JavaScript Stuff/start-here-guidelines/CONTRIBUTORS.md",
+		"/C/Users/eurip/OneDrive/Desktop/stuff/JavaScript Stuff/backgroundgeneratorscript.js",
+		"/C/Users/eurip/OneDrive/Desktop/test/webapp/about.html",
+		"/C/Users/eurip/OneDrive/Desktop/Nueva carpeta/const array = [1,2,10,16].js",
+		"/C/Users/eurip/OneDrive/Desktop/stuff/JavaScript Stuff/Clean the room.js",
+		"/C/Users/eurip/AppData/Local/Temp/Rar$DRa5100.27541/exercise6-SOLUTIONS.js",
+		"/C/Users/eurip/AppData/Local/Temp/Rar$DRa5100.27046/exercise6.js",
+		"/C/Users/eurip/AppData/Local/Temp/Rar$DRa14088.31046/exerciseES7-SOLUTIONS.js",
+		"/C/Users/eurip/AppData/Local/Temp/Rar$DRa14088.30791/exerciseES7.js",
+		"/C/Users/eurip/AppData/Local/Temp/Rar$DRa20116.46079/exercise5-SOLUTIONS-1.js",
+		"/C/Users/eurip/AppData/Local/Temp/Rar$DRa20116.45827/exercise5.js",
+		"/C/Users/eurip/AppData/Local/Temp/Rar$DRa1068.13557/exercise5-SOLUTIONS-1.js",
+		"/C/Users/eurip/AppData/Local/Temp/Rar$DRa1068.13287/exercise5.js",
+		"/C/Program Files/Git/ReleaseNotes.html",
+		"/C/Users/eurip/AppData/Local/Temp/Rar$DRa6376.3632/exercise4-SOLUTIONS.js",
+		"/C/Users/eurip/AppData/Local/Temp/Rar$DRa6376.44031/exercise4.js",
+		"/C/Users/eurip/AppData/Local/Temp/Rar$DRa12312.36892/exercise2-SOLUTIONS.js",
+		"/C/Users/eurip/AppData/Local/Temp/Rar$DRa11976.36977/exercise3-SOLUTIONS.js",
+		"/C/Users/eurip/OneDrive/Desktop/JavaScript Stuff/exercise3advance.js",
+		"/C/Users/eurip/OneDrive/Desktop/JavaScript Stuff/exercise2advance.js",
+		"/C/Users/eurip/AppData/Local/Temp/Rar$DRa13144.1138/exercise1-SOLUTIONS.js",
+		"/C/Users/eurip/AppData/Local/Temp/Rar$DRa13144.43512/exercise1.js",
+		"/C/Users/eurip/OneDrive/Desktop/examle/script.js",
+		"/C/Users/eurip/OneDrive/Desktop/JavaScript Stuff/backgroundgeneratorscript.js",
+		"/C/Users/eurip/OneDrive/Desktop/JavaScript Stuff/backgroundgeneratorstyle.css",
+		"/C/Users/eurip/OneDrive/Desktop/JavaScript Stuff/backgroundgenerator.html",
+		"/C/Users/eurip/AppData/Local/Temp/Rar$EXa17040.5827/index.html",
+		"/C/Users/eurip/AppData/Local/Temp/Rar$DRa17040.6926/script.js",
+		"/C/Users/eurip/OneDrive/Desktop/examle/style.css",
+		"/C/Users/eurip/OneDrive/Desktop/examle/index.html",
+		"/C/Users/eurip/AppData/Local/Temp/Rar$EXa11428.2143/index.html",
+		"/C/Users/eurip/AppData/Local/Temp/Rar$DIa31396.44365/DOM-selectors.txt",
+		"/C/Users/eurip/OneDrive/Desktop/JavaScript Stuff/SectionOutline.js",
+		"/C/Users/eurip/OneDrive/Desktop/Sublime/index.html",
+		"/C/Users/eurip/OneDrive/Desktop/Sublime/script.js",
+		"/C/Users/eurip/OneDrive/Desktop/JavaScript Stuff/selector.html",
+		"/C/Users/eurip/AppData/Local/Temp/Rar$DIa17228.2730/DOM-selectors.txt",
+		"/C/Users/eurip/OneDrive/Desktop/JavaScript Stuff/exercise7-SOLUTIONS.js",
+		"/C/Users/eurip/OneDrive/Desktop/JavaScript Stuff/SectionOutline.txt",
+		"/C/Users/eurip/OneDrive/Desktop/JavaScript Stuff/Looping.js",
+		"/C/Users/eurip/AppData/Local/Temp/Rar$DIa13084.47883/exercise5-SOLUTIONS.js",
+		"/C/Users/eurip/OneDrive/Desktop/JavaScript Stuff/exercise5.js",
+		"/C/Users/eurip/OneDrive/Desktop/JavaScript Stuff/exercise3.txt",
+		"/C/Users/eurip/OneDrive/Desktop/JavaScript Stuff/exercise4.txt",
+		"/C/Users/eurip/AppData/Local/Temp/Rar$DIa21492.15683/exercise4-SOLUTIONS.txt",
+		"/C/Users/eurip/AppData/Local/Temp/Rar$DIa13084.47099/exercise5.txt",
+		"/C/Users/eurip/OneDrive/Desktop/JavaScript Stuff/exercise1.txt",
+		"/C/Users/eurip/AppData/Local/Temp/Rar$DIa26468.39468/exercise3-SOLUTIONS.txt",
+		"/C/Users/eurip/OneDrive/Desktop/JavaScript Stuff/exercise2.txt",
+		"/C/Users/eurip/AppData/Local/Temp/Rar$DIa15064.21610/exercise2-SOLUTIONS.txt",
+		"/C/Users/eurip/AppData/Local/Temp/Rar$DIa22948.24364/exercise1-SOLUTIONS.txt",
+		"/C/Users/eurip/OneDrive/Desktop/CSS stuff/Layout.html",
+		"/C/Users/eurip/OneDrive/Desktop/CSS stuff/index.html",
+		"/C/Users/eurip/OneDrive/Desktop/CSS stuff/layoutstyle.css",
+		"/C/Users/eurip/AppData/Local/Temp/Rar$DIa24608.38647/style.css",
+		"/C/Users/eurip/AppData/Local/Temp/Rar$EXa24608.42288/project-layout/index.html",
+		"/C/Users/eurip/AppData/Local/Temp/Rar$EXa15764.6040/project-layout/index.html",
+		"/C/Users/eurip/OneDrive/Desktop/CSS stuff/animate.html",
+		"/C/Users/eurip/OneDrive/Desktop/CSS stuff/cssgrid.html",
+		"/C/Users/eurip/OneDrive/Desktop/Sublime/style.css",
+		"/C/Users/eurip/OneDrive/Desktop/Sublime/cssgrid.html",
+		"/C/Users/eurip/AppData/Local/Temp/Rar$EXa27336.47793/index.html",
+		"/C/Users/eurip/AppData/Local/Temp/Rar$DIa24436.38113/style.css",
+		"/C/Users/eurip/AppData/Local/Temp/Rar$EXa24436.37617/index.html",
+		"/C/Users/eurip/OneDrive/Desktop/CSS stuff/animate.css",
+		"/C/Users/eurip/OneDrive/Desktop/CSS stuff/Bootstrap.html",
+		"/C/Users/eurip/OneDrive/Desktop/CSS stuff/Bootstrap.css",
+		"/C/Users/eurip/AppData/Local/Temp/Rar$DIa28124.25284/style.css",
+		"/C/Users/eurip/OneDrive/Desktop/CSS stuff/startupstyle.css",
+		"/C/Users/eurip/AppData/Local/Temp/Rar$EXa28124.24388/startup-of-the-year-master/index.html",
+		"/C/Users/eurip/OneDrive/Desktop/CSS stuff/startup.html",
+		"/C/Users/eurip/AppData/Local/Temp/Rar$DIa10592.19209/bootstrap-utilities.rtl.min.css",
+		"/C/Users/eurip/AppData/Local/Temp/Rar$DIa10592.20391/bootstrap-utilities.rtl.min.css.map",
+		"/C/Users/eurip/OneDrive/Desktop/CSS stuff/Style.css",
+		"/C/Users/eurip/OneDrive/Desktop/CSS stuff/robotfriend.html",
+		"/C/Users/eurip/OneDrive/Desktop/CSS stuff/stylerobotfriend.css",
+		"/C/Users/eurip/AppData/Local/Temp/Rar$DIa25112.45920/style.css",
+		"/C/Users/eurip/OneDrive/Desktop/CSS stuff/flexbox.html",
+		"/C/Users/eurip/OneDrive/Desktop/CSS stuff/styleflexbox.css",
+		"/C/Users/eurip/OneDrive/Desktop/CSS stuff/Style2.css",
+		"/C/Users/eurip/OneDrive/Desktop/CSS stuff/login.html",
+		"/C/Users/eurip/OneDrive/Desktop/CSS stuff/about.html"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "package.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

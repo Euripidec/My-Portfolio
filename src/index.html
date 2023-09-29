@@ -1,0 +1,349 @@
+<!--
+  Hello!
+  -
+  Simplefolio is a clean and responsive portfolio template for Developers!
+  Created by Jacobo Martinez.
+  -
+  Github Repo: https://github.com/cobidev/simplefolio/
+  Readme: https://github.com/cobidev/simplefolio/README.md
+  -
+  For business & inquires, contact me -> jacobojavier98@gmail.com
+-->
+<!DOCTYPE html>
+<html lang="en" class="sr">
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="shortcut icon" type="image/png" href="assets/favicon.png" />
+
+    <!-- Todo: put here your site title -->
+    <title>Euripide Carpio | Digital Alchemist (Front-end/Back-end/Databases)</title>
+    <!-- Todo: add some coding keywords below - e.g: (javascript, yourusername, etc) -->
+    <meta name="keywords" content="Euripidec, Euripide Carpio, Full-Stack development" />
+    <!-- Todo: improve your SEO by adding a small description of you -->
+    <meta name="Island boy takeing on the big challenges of big tech" content="Euripide Carpio | Developer" />
+
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
+    />
+    <link rel="stylesheet" href="styles.scss" />
+    <script
+      defer
+      src="https://unpkg.com/scrollreveal@4.0.0/dist/scrollreveal.min.js"
+    ></script>
+
+    <!-- Todo: remove the below script once you finish your portfolio -->
+    <script async defer src="https://buttons.github.io/buttons.js"></script>
+  </head>
+
+  <!-- Todo: read the following HTML Todos to create your stunning portfolio website -->
+  <body>
+    <div id="top"></div>
+
+    <!-- **** Hero Section **** -->
+    <section id="hero" class="jumbotron">
+      <div class="container">
+        <h1 class="hero-title load-hidden">
+          Hi, my name is <span class="text-color-main">Euripide Carpio</span>
+          <br />
+          I'm the Developer you need.
+        </h1>
+        <p class="hero-cta load-hidden">
+          <a rel="noreferrer" class="cta-btn cta-btn--hero" href="#about"
+            >Hire Me</a
+          >
+        </p>
+      </div>
+    </section>
+    <!-- /END Hero Section -->
+
+    <!-- **** About Section **** -->
+    <section id="about">
+      <div class="container">
+        <h2 class="section-title load-hidden">About me</h2>
+        <div class="row about-wrapper">
+          <div class="col-md-6 col-sm-12">
+            <div class="about-wrapper__image load-hidden">
+              <img
+                alt="Profile Image"
+                class="img-fluid rounded shadow-lg"
+                height="auto"
+                width="300px"
+                src="assets/profile.jpg"
+                alt="Profile Image"
+              />
+            </div>
+          </div>
+          <div class="col-md-6 col-sm-12">
+            <div class="about-wrapper__info load-hidden">
+              <p class="about-wrapper__info-text">
+                I am a Full-stack web developer who is able to build a website with a full database back end, and an amazing and light layout, from scratch. Great team player and a responsible person. Originally from the U.S. Virgin Islands , I am currently studying information and communication Technology (ICT Engineering) at UNIBE (Universidad Iberoamericana), the #1 university here in the Dominican Republic and have always had a passion for technology. In love with Front-End development and proficient in Back-End development. I also have extensive experience working with groups and leadership skills.
+              </p>
+              <p class="about-wrapper__info-text">
+                I always want to learn more, do more, and be more. Always striving to apply my programming skills to make applications perform smoothly and more open to the world. I want to find solutions to the technically challenging facets of applications. I'm excited to employ these skills as part of a fast-paced, quality-driven team in order to build better experiences on the web.
+              </p>
+              <span class="d-flex mt-3">
+                <a
+                  rel="noreferrer"
+                  target="_blank"
+                  class="cta-btn cta-btn--resume"
+                  href="assets/Résumé English.pdf"
+                >
+                  View Resume
+                </a>
+                <span class="d-flex mt-3">
+                  <a
+                    rel="noreferrer"
+                    target="_blank"
+                    class="cta-btn cta-btn--resume"
+                    href="assets/Résumé Espanol.pdf"
+                  >
+                    Ver Currículum
+                  </a>
+              </span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <!-- /END About Section -->
+
+    <!-- **** Projects Section **** -->
+    <section id="projects">
+      <div class="container">
+        <div class="project-wrapper">
+          <h2 class="section-title dark-blue-text">Projects</h2>
+
+          <!-- Notice: each .row is a project -->
+          <div class="row">
+            <div class="col-lg-4 col-sm-12">
+              <div class="project-wrapper__text load-hidden">
+                <h3 class="project-wrapper__text-title">Face Detect</h3>
+                <div>
+                  <p class="mb-4">
+                    Face-Detect harnesses the power of machine learning to perform remarkable feats of facial recognition. With an intricate interplay of sophisticated algorithms, this web application can flawlessly detect and analyze faces from images, unveiling a world where pixels transform into meaningful human features. The utilization of the renowned Clarifai API adds an extra layer of accuracy and precision, enabling Face-Detect to seamlessly locate faces in a vast array of pictures.
+                  </p>
+                </div>
+                <a
+                  rel="noreferrer"
+                  target="_blank"
+                  class="cta-btn cta-btn--hero"
+                  href="https://face-detect-a323.onrender.com/"
+                >
+                  See Live
+                </a>
+                <a
+                  rel="noreferrer"
+                  target="_blank"
+                  class="cta-btn text-color-main"
+                  href="https://github.com/Euripidec/Face-Detect-Website"
+                >
+                  Source Code
+                </a>
+              </div>
+            </div>
+            <div class="col-lg-8 col-sm-12">
+              <div class="project-wrapper__image load-hidden">
+                <a rel="noreferrer" href="https://face-detect-a323.onrender.com/" target="_blank">
+                  <div
+                    data-tilt
+                    data-tilt-max="4"
+                    data-tilt-glare="true"
+                    data-tilt-max-glare="0.5"
+                    class="thumbnail rounded js-tilt"
+                  >
+                    <img
+                      alt="Project Image"
+                      class="img-fluid"
+                      src="assets/project1.png"
+                    />
+                  </div>
+                </a>
+              </div>
+            </div>
+          </div>
+          <!-- /END Project -->
+
+          <!-- Notice: each .row is a project -->
+          <div class="row">
+            <div class="col-lg-4 col-sm-12">
+              <div class="project-wrapper__text load-hidden">
+                <h3 class="project-wrapper__text-title">RoboFriends</h3>
+                <div>
+                  <p class="mb-4">
+                    Step into the captivating world of RoboFriends, an exceptional web application that transcends the limitations of a traditional contact book. With its seamless integration of React and an array of powerful APIs, RoboFriends revolutionizes the way we connect and interact with our digital companions.
+                  </p>
+                </div>
+                <a
+                  rel="noreferrer"
+                  target="_blank"
+                  class="cta-btn cta-btn--hero"
+                  href="https://euripidec.github.io/RoboFriends/"
+                >
+                  See Live
+                </a>
+                <a
+                  rel="noreferrer"
+                  target="_blank"
+                  class="cta-btn text-color-main"
+                  href="https://github.com/Euripidec/RoboFriends/tree/main"
+                >
+                  Source Code
+                </a>
+              </div>
+            </div>
+            <div class="col-lg-8 col-sm-12">
+              <div class="project-wrapper__image load-hidden">
+                <a rel="noreferrer" href="https://euripidec.github.io/RoboFriends/" target="_blank">
+                  <div
+                    data-tilt
+                    data-tilt-max="4"
+                    data-tilt-glare="true"
+                    data-tilt-max-glare="0.5"
+                    class="thumbnail rounded js-tilt"
+                  >
+                    <img
+                      alt="Project Image"
+                      class="img-fluid"
+                      src="assets/project.jpg"
+                    />
+                  </div>
+                </a>
+              </div>
+            </div>
+          </div>
+          <!-- /END Project -->
+
+          <!-- Notice: each .row is a project -->
+          <div class="row">
+            <div class="col-lg-4 col-sm-12">
+              <div class="project-wrapper__text load-hidden">
+                <h3 class="project-wrapper__text-title">Syntho Script</h3>
+                <div>
+                  <p class="mb-4">
+                     Syntho Script is an innovative and dynamic open-source AI prompting tool designed specifically for the modern world. With its advanced capabilities, it empowers users to explore, unleash their creativity, and effortlessly share their imaginative prompts with others.
+                  </p>
+                </div>
+                <a
+                  rel="noreferrer"
+                  target="_blank"
+                  class="cta-btn cta-btn--hero"
+                  href="https://project-syntho-script-bpnbz0tvd-euripidec.vercel.app/"
+                >
+                  See Live
+                </a>
+                <a
+                  rel="noreferrer"
+                  target="_blank"
+                  class="cta-btn text-color-main"
+                  href="#!"
+                >
+                  Source Code
+                </a>
+              </div>
+            </div>
+            <div class="col-lg-8 col-sm-12">
+              <div class="project-wrapper__image load-hidden">
+                <a rel="noreferrer" href="https://github.com/Euripidec/project_Syntho_Script" target="_blank">
+                  <div
+                    data-tilt
+                    data-tilt-max="4"
+                    data-tilt-glare="true"
+                    data-tilt-max-glare="0.5"
+                    class="thumbnail rounded js-tilt"
+                  >
+                    <img
+                      alt="Project Image"
+                      class="img-fluid"
+                      src="assets/project2.jpg"
+                    />
+                  </div>
+                </a>
+              </div>
+            </div>
+          </div>
+          <!-- /END Project -->
+        </div>
+      </div>
+    </section>
+    <!-- /END Projects Section -->
+
+    <!-- **** Contact Section **** -->
+    <section id="contact">
+      <div class="container">
+        <h2 class="section-title">Contact</h2>
+        <div class="contact-wrapper load-hidden">
+          <p class="contact-wrapper__text">Unlock boundless possibilities by
+hiring me for your next project.
+Together, let's shape the future
+with impeccable code and seamless solutions.</p>
+          <a
+            rel="noreferrer"
+            target="_blank"
+            class="cta-btn cta-btn--resume"
+            href="mailto:euripidec@gmail.com"
+            >Email Me</a
+          >
+        </div>
+      </div>
+    </section>
+    <!-- /END Contact Section -->
+
+    <!-- **** Footer Section **** -->
+    <footer class="footer navbar-static-bottom">
+      <div class="container">
+        <a rel="noreferrer" href="#top" class="back-to-top">
+          <i class="fa fa-angle-up fa-2x" aria-hidden="true"></i>
+        </a>
+        <div class="social-links">
+          </a>
+          <a rel="noreferrer" href="https://www.linkedin.com/in/euripide-carpio-63a386152/" target="_blank">
+            <i class="fa fa-linkedin fa-inverse"></i>
+          </a>
+          <a rel="noreferrer" href="https://github.com/Euripidec" target="_blank">
+            <i class="fa fa-github fa-inverse"></i>
+          </a>
+        </div>
+
+        <hr />
+
+        <!-- Notice: if you want to give me some credit, it will be huge for me! if not, put your data on it -->
+        <p class="footer__text">
+          © 2021 - Template developed by
+          <a rel="noreferrer" href="https://github.com/cobidev" target="_blank"
+            >Jacobo Martínez</a
+          >
+        </p>
+
+        <!-- TO DO: remove this entire paragraph once you finish your portfolio -->
+        <p class="mt-3 pt-3">
+          <a
+            rel="noreferrer"
+            class="github-button"
+            href="https://github.com/cobidev/simplefolio/fork"
+            data-icon="octicon-repo-forked"
+            data-size="large"
+            data-show-count="true"
+            aria-label="Fork ntkme/github-buttons on GitHub"
+            >Fork</a
+          >
+          <a
+            rel="noreferrer"
+            class="github-button"
+            href="https://github.com/cobidev/simplefolio"
+            data-icon="octicon-star"
+            data-size="large"
+            data-show-count="true"
+            aria-label="Star cobidev/simplefolio on GitHub"
+            >Star</a
+          >
+        </p>
+      </div>
+    </footer>
+    <!-- /END Footer Section -->
+
+    <script defer type="module" src="index.js"></script>
+  </body>
+</html>
